@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CCE Admin — Sign in</title>
-    <link rel="stylesheet" href="${url.resourcesPath}/css/login.css">
+    <link rel="stylesheet" href="${url.resourcesPath}/css/cce-admin.css">
 </head>
 <body>
     <div class="top-bar">
