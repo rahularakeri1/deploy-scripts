@@ -1,0 +1,8 @@
+/* CCE Admin brand for the standard Keycloak pages (update password, errors, info, ...). */
+.login-pf body, body.login-pf { background: #f9fafb; }
+.login-pf-page { padding-top: 40px; }
+.login-pf-page .card-pf { max-width: 480px; margin: 0 auto; border-top: 4px solid #3730a3; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,.1); }
+#kc-header-wrapper { color: #3730a3; font-weight: 700; text-transform: none; letter-spacing: 0; }
+.btn-primary, input[type="submit"].btn-primary { background: #3730a3; border-color: #3730a3; background-image: none; }
+.btn-primary:hover, .btn-primary:focus { background: #312e81; border-color: #312e81; }
+a { color: #3730a3; }
